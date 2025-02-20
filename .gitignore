@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Credentials / tokens
+credentials.json
+token.pickle
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE settings (optional, if you use PyCharm / VSCode etc.)
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
