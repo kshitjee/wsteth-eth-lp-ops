@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository implements a liquidity provisioning bot for the wstETH/wETH pair on Uniswap V3. It calculates optimal tick ranges for concentrated liquidity positions using market metrics and a deterministic yield model, monitors positions, and sends email alerts for rebalancing decisions. A GitHub Actions workflow runs the bot every 24 hours.                     # This file
+This repository implements a liquidity provisioning bot for the wstETH/wETH pair on Uniswap V3. It calculates optimal tick ranges for concentrated liquidity positions using market metrics and a deterministic yield model, monitors positions, and sends email alerts for rebalancing decisions. A GitHub Actions workflow runs the bot every 24 hours.
 
 ## Setup
 
